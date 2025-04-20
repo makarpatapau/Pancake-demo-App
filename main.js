@@ -193,7 +193,7 @@ confirmOrderButton.addEventListener("click", (event) => {
   if (validateOrderForm()) {
     confirmOrderHandler();
     alert("Order confirmed! Check your order at All Orders");
-    window.open("allorders.html", "_blank");
+    window.open("allOrders.html", "_blank");
   }
 });
 
