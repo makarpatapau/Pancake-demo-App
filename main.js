@@ -198,5 +198,5 @@ confirmOrderButton.addEventListener("click", (event) => {
 });
 
 document.getElementById("allOrdersButton").addEventListener("click", () => {
-  window.open("allorders.html", "_blank");
+  window.open("allOrders.html", "_blank");
 });
